@@ -1,0 +1,50 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Build / binaries
+dist/
+build/
+out/
+bin/
+obj/
+target/
+
+# Coverage
+coverage/
+*.coverprofile
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Go
+*.exe
+*.test
+
+# Java
+*.class
+
+# Rust
+Cargo.lock
+
+# Local configs
+*.local
